@@ -15,7 +15,7 @@ declare(strict_types=1);
  */
 
 /**
- * TODO: BC layer, remove with Pimcore 12
+ * TODO: BC layer, remove with Pimcore 13
  */
 $classAliases = [
     '\Pimcore\Bundle\ApplicationLoggerBundle\ApplicationLogger' => '\Pimcore\Log\ApplicationLogger',
